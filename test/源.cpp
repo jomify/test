@@ -18,7 +18,10 @@ class peoson :people {
 	}
 
 };
+class guit:public peoson{
+
+}
 int main() {
-	cout << "���Գɹ�" << endl;
+	cout << "²âÊÔ³É¹¦" << endl;
 	return 0;
 }
